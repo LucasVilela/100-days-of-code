@@ -50,4 +50,11 @@
 
 **Thoughts:** This is something that I want to work a lot, I use a date calculator all the time and would be good to have one that is just mine, today progress was good, got a lot of the functionality done, It might take me another day to get it ready, is been good to keep the habit of coding everyday, I wasn't feeling at all today but I persisted and got something that I wanted done, that is quite good, I feel that is quite hard for me to build a habit but if I keep pushing will happen
 
+### Day 3: 19 May 2020
+
+**Today's Progress**: Small touches on the date calc and unfinished Kata
+
+**Thoughts:** Completely unmotivated today, didn't have any patience to work on the date calculator, I find that I get really blocked when is about design things and how they should look and feel, I'm really bad at it, I feel is like a muscle that I never used before. Also finding the Katas really boring. I need to find something fun to work with maybe a course or something, this mindless thing is not working for me so far
+
+
 
